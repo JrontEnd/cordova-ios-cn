@@ -1,5 +1,5 @@
 # cordova-ios-cn
-Localized ios for chinese  
+Localized ios to chinese for cordova  
 
 本地化IOS应用（中文）  
 
