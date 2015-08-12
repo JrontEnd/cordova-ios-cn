@@ -9,8 +9,8 @@
   <author>Xingyu Jiao</author>
   <keywords>cordova, localization, chinese</keywords>
 
-  <repo></repo>
-  <issue>/issues</issue>
+  <repo>https://github.com/JrontEnd/cordova-ios-cn.git</repo>
+  <issue>https://github.com/JrontEnd/cordova-ios-cn/issues</issue>
 
   <engines>
     <engine name="cordova" version=">3.0.0" />
