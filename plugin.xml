@@ -4,7 +4,7 @@
   version="0.1.0">
 
   <name>cordova-ios-cn</name>
-  <description>localized ios for chinese</description>
+  <description>localized ios to chinese for cordova</description>
   <license>MIT</license>
   <author>Xingyu Jiao</author>
   <keywords>cordova, localization, chinese</keywords>
