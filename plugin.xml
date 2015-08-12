@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns:android="http://schemas.android.com/apk/res/android"
+  id="cordova-ios-cn"
+  version="0.1.0">
+
+  <name>cordova-ios-cn</name>
+  <description>localized ios for chinese</description>
+  <license>MIT</license>
+  <author>Xingyu Jiao</author>
+  <keywords>cordova, localization, chinese</keywords>
+
+  <repo></repo>
+  <issue>/issues</issue>
+
+  <engines>
+    <engine name="cordova" version=">3.0.0" />
+  </engines>
+
+  <!-- ios -->
+  <platform name="ios">
+    <config-file target="*-Info.plist" parent="CFBundleLocalizations">
+      <array>
+        <string>zh_CN</string>
+      </array>
+    </config-file>
+  </platform>
+
+</plugin>
